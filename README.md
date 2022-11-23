@@ -4,8 +4,6 @@ Hola!
 
 I’ve been helping startups grow their revenue and user base for the past 6 years. Working in enterprise sales, growth, and product — I’ve developed a pretty robust idea of how to develop a product users love, a funnel that converts them, and an experience that retains them.
 
-In July I left my job and took a few online courses to better understand design and the technical side of product. It may not be the best designed product — but this is the first product I have ever built from code. I hope you can get some use out of it!
-
 ** At the moment I’m looking for a Growth Product Management role — if you're interested in learning more or know anyone that might be, shoot me an email at spencer.badanai@gmail.com. **
 
 Intro to GrowthLander
