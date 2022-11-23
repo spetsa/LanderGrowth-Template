@@ -4,7 +4,7 @@ Hola!
 
 I’ve been helping startups grow their revenue and user base for the past 6 years. Working in enterprise sales, growth, and product — I’ve developed a pretty robust idea of how to develop a product users love, a funnel that converts them, and an experience that retains them.
 
-** At the moment I’m looking for a Growth Product Management role — if you're interested in learning more or know anyone that might be, shoot me an email at spencer.badanai@gmail.com. **
+**At the moment I’m looking for a Growth Product Management role — if you're interested in learning more or know anyone that might be, shoot me an email at spencer.badanai@gmail.com.**
 
 Intro to GrowthLander
 I have built, helped build, and overseen the development of landing pages for Pre Seed to Series B startups. I have found a structure that I have seen work time and time again — that is what this template is based off of. Keep in mind your conversion rates are only as good as the leads you send there. I hope to help founders tackle that problem next.  
