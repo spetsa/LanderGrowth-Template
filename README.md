@@ -28,9 +28,6 @@ In the coming weeks I will be adding additional code that will make integration 
 
 Once this update is complete I hope to start working on templates for outbound email and cold calling strategies. I have achieved open rates as high as 75% and conversions as high as 15% and I would like to share how I accomplished that. 
 
-**Why are you doing this?**
-Two reasons. I wanted to code a product from scratch, I also believe that we should make it as easy as possible for founders to build companies. If more startups reach scale, more jobs will be created, more wealth will be generated, and more beautiful products will get the development they need to create value for workers and consumers. Innovation and entrepreneurship is the life blood of our economy. If I can contribute to that in any way — it brings me the utmost joy.
-
 When you get your first conversion on the template please let me know!
 
 Happy startupping,
