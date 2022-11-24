@@ -1,6 +1,6 @@
 Hola!
 
-I’ve been helping startups grow their revenue and user base for the past 6 years. Working in enterprise sales, growth, and product — I’ve developed a pretty robust idea of how to develop a product users love, a funnel that converts them, and an experience that retains them.
+I’ve been helping startups grow their revenue and user base for the past 6 years. Working in enterprise sales, growth, and product — I’ve developed a robust idea of how to develop a product users love, a funnel that converts them, and an experience that retains them.
 
 **At the moment I’m looking for a Growth Product Management role — if you're interested in learning more or know anyone that might be, shoot me an email at spencer.badanai@gmail.com.**
 
