@@ -18,7 +18,7 @@ The “banner_images” file where you can see banner images that have been conv
 The “webp conversions” folder which contains a number of handpicked Unsplash images that have all been converted to Webp.
 
 **Video Tutorials**
-https://youtube.com/playlist?list=PLH61JS6acSMALOBGQl04GZImJl1p0Bobg0
+https://www.youtube.com/playlist?list=PLH61JS6acSMALOBGQl04GZImJl1p0Bobg
 
 **Photos**
 Try to use as many photos of casual + normal people as possible on your site. In my experience these lead to the most conversions. The more produced the less likely people are to believe what you are selling. Of course, you should also include some screenshots of your product if you have them.
