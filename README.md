@@ -17,18 +17,21 @@ The “Logos” folder where you can store your logos
 The “banner_images” file where you can see banner images that have been converted to WebP. All of which are free to use from Unsplash. 
 The “webp conversions” folder which contains a number of handpicked Unsplash images that have all been converted to Webp.
 
-**Video Tutorials**
+**Growth Lander Video Tutorials**
 https://www.youtube.com/playlist?list=PLH61JS6acSMALOBGQl04GZImJl1p0Bobg
 
+**Google Tag Manager Tutorial**
+https://www.youtube.com/watch?v=u_x5lVJMKZ0
+
+**Google Analytics Tutorial**
+https://www.youtube.com/watch?v=cN1Jcfxi4qs&t=566s
+
+
 **Photos**
-Try to use as many photos of casual + normal people as possible on your site. In my experience these lead to the most conversions. The more produced the less likely people are to believe what you are selling. Of course, you should also include some screenshots of your product if you have them.
+Try to use as many photos of casual + normal people as possible on your site. In my experience these lead to the most conversions. The more produced the less likely people are to believe what you are selling. Of course, you should also include some screenshots of your product if you have them.\
 
-**Updates to Come**
-In the coming weeks I will be adding additional code that will make integration with Google Analytics & Google Optimize much easier. I will also create videos describing how to get the most out of these Softwares + Inspectlet. 
 
-Once this update is complete I hope to start working on templates for outbound email and cold calling strategies. I have achieved open rates as high as 75% and conversions as high as 15% and I would like to share how I accomplished that. 
-
-When you get your first conversion on the template please let me know!
+**When you get your first conversion on the template please let me know!**
 
 Happy startupping,
 Spencer
